@@ -39,10 +39,10 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    website: 'https://ufuksfk.com',
+    title: 'Ufuk Safak',
+    subtitle: 'Family guy, life long learner, embedded system engineer.',
+    description: 'Personal story of mine.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -85,17 +85,29 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/ufuksfk'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Bluesky',
+            href: 'https://bsky.app/profile/ufuksfk.bsky.social'
+        },
+        {
+            text: 'Mastodon',
+            href: 'https://mastodon.social/@ufuksfk'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+            href: 'https://twitter.com/ufuksfk'
+        },
+        {
+            text: 'Substack',
+            href: 'https://substack.com/@ufuksfk'
+        },
+        {
+            text: 'Instagram',
+            href: 'https://instagram.com/ufuksfk'
+        },
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
