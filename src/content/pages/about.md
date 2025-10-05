@@ -8,36 +8,75 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+## Ufuk Safak, Electronics Engineer
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+I’m Ufuk Safak, an engineer living in the south of Sweden. We’ve been here for almost three years — me, my wife, and our son.
 
-## Ufuk Safak - Web Developer based in Estonia
+We both grew up in Istanbul, and now we live in a small town called Eslöv in Skåne. From 16 million to 30 thousand people — it’s been a big shift, not just in size but in culture too. But so far, we’ve really liked it.
 
-**Greetings!** I'm Ufuk Safak, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+I’ve always been drawn to the design side of things. Doesn’t really matter what kind — if it’s creative and needs solving, I’m usually interested.
 
-## Skills and Expertise
+### Here’s what I’m mostly good at:
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+- I believe I can design almost anything. Since I studied Electronics Engineering, I naturally lean toward electronics — both circuits and firmware.
 
-## Innovation and Problem-Solving
+- I’ve worked on full electronics products, from schematics to bare-metal firmware. Even spent a good amount of time modeling enclosures and physical parts in 3D.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+- I write solid technical documentation. Especially when it comes to comparing options and presenting them clearly to help people make decisions.
 
-## Global Perspective, Local Impact
+- I’m well-organized when using tools like Notion, Obsidian, Confluence, Asana — not just to track tasks, but to shape ideas and communicate clearly.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+- I ask sharp questions. I’m good at spotting pain points and preparing a plan to solve them — including breaking things down and delegating where needed.
 
-## Continuous Learning
+- I’m a high-in-the-sky generalist. I’ve designed hardware, firmware, mobile apps, APIs, landing pages, presentations, logos, brands, products — even robotic classrooms. All of it was equally enjoyable, mostly because of the great people I got to work with.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+- I am perfectionist by nature. I am trying to solve it by nurture.
 
-## Collaboration and Communication
+### And here’s the stuff I struggle with:
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+- I don’t always enjoy the “making it real” part. I’m more of an idea person than a pure doer. But when I’m in flow with the right team, I can build pretty well — I just know I’m not the best solo executor. I’m more of a thinker–tinkerer hybrid.
 
-## Get in Touch
+- Closing small Jira tickets one by one without seeing the bigger picture — that kind of work wears me down quickly.
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+- I lose focus on long text-only tasks. Coding is mostly typing, and my brain doesn’t love that. I need to feel like I’m solving something interesting — something that ends with a little dopamine hit when it works.
 
-_Let's build something amazing together!_
+## Things I like to spend my personal time
+
+### Listening
+
+- It’s a cliché, but I really enjoy podcasts and audiobooks. Not reading — I’d like to read more, but it feels tough to build that habit later in life.
+
+- That said, I’ve already broken my yearly reading record: [57 books](https://www.goodreads.com/review/list/93047495?shelf=read) in 2025 so far.
+
+  - Most of them were audiobooks, as you might guess.
+
+  - For the record, I’ve read 137 books in my lifetime — at least as far as I’ve tracked.
+
+### Technology and Society relations
+
+- I enjoy thinking about how technology shapes our lives — and how it might shape the future.
+
+- I’d say I’m a pretty decent future speculator.
+
+### Design, Products
+
+- I really like reading about product design. Or, honestly, anything with “product” and “design” in the same sentence — I’m usually in.
+
+### Sustainability
+
+- I keep listening and reading about global warming, sustainability, climate crisis topics.
+- I genuinely think we’ll need better systems, not just better habits, if we want to get anywhere.
+- I’m especially drawn to questions like: How should we design if we’re serious about sustainability? What does “enough” look like in a product?
+
+### Circular Economy
+
+- From both a societal and economic angle, I find the circular economy fascinating.
+
+- I’m especially interested in how circular thinking can influence product design — not just materials, but ownership, repairability, business models, and emotional attachment to objects.
+
+- I’d love to work with companies trying to design circular experiences — where the product's second life is as intentional as its first.
+
+### Personal Knowledge Management, Note taking
+
+- I’m not entirely sure if it’s a good habit or just a compulsive one, but I write down almost everything.
+- I’ve built a personal system where everything eventually lands in Obsidian, mostly through Readwise integration. I am also publishing [my second brain](https://notes.ufuksfk.com/) partially.

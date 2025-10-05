@@ -51,6 +51,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
+        },        
+        {
+            text: 'About',
+            href: '/about'
         },
         {
             text: 'Projects',
@@ -66,18 +70,18 @@ const siteConfig: SiteConfig = {
         }
     ],
     footerNavLinks: [
-        {
+        /*{
             text: 'About',
             href: '/about'
-        },
+        },*/
         {
             text: 'Contact',
             href: '/contact'
         },
-        {
+        /*{
             text: 'Terms',
             href: '/terms'
-        },
+        },*/
         {
             text: 'Download theme',
             href: 'https://github.com/JustGoodUI/dante-astro-theme'
@@ -111,16 +115,16 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ufuk Safak**, an embedded systems engineer at ICT Additude, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/ufuksfk'>Twitter/X</a>.",
+        text: "I'm **Ufuk Safak**, an embedded systems engineer exploring the intersection of hardware, design, and systems thinking. I'm drawn to ideas that blend creativity with practicality — whether it's building physical products, shaping thoughtful user flows, or asking better questions. I believe good design starts with curiosity and improves through iteration. You can check out some of my experiments on <a href='https://github.com/ufuksfk'>GitHub</a> or find me over on <a href='https://linkedin.com/in/ufuksfk'>Linkedin</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+        src: '/hero.jpeg',
+        alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
+        {
+            text: 'Get in Touch',
+            href: '/contact'
+        }
         ]
     },
     subscribe: {
