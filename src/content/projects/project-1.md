@@ -1,6 +1,6 @@
 ---
 title: 'Avokadio'
-description: Avokadio is breath analyzer device which can help you to track your metabolism and lose weight.
+description: A consumer breath analyzer device to help track metabolism and support weight loss
 publishDate: 'Dec 31 2021'
 seo:
   image:
@@ -8,67 +8,54 @@ seo:
     alt: Project preview
 ---
 
-**Project Overview:**
+**Project Overview:**  
+We developed **Avokadio**, a consumer breath analyzer that detects multiple gases in exhaled breath to provide insights about metabolism and overall health.
 
-We developed a breath analyser device for consumer use. It can sense lots of gas at breath. With these data points, we were developing algorithms that give information about your health and your metabolism.
+I co-founded the startup with two close collaborators and led all technical work — prototyping, firmware, hardware design. After becoming a parent, I chose to step away from the venture to focus on personal priorities and financial stability.
 
-I resigned from our lovely startup after being a father. It was very nice to work with these people, but after being a parent I started to question my personal financial status and decided to take a break from entrepreneurship journey.
+---
 
-## Team
+## 👥 Team
 
-In my 3rd entrepreneurship attempt, we were 3 co-founders.
+- **Ufuk Safak** – Technical Co-founder  
+  Led hardware, firmware, and prototyping.
+- **Yunus Konmaz** – Business & Strategy  
+  Came up with the idea, led business development and marketing.
+- **Gökçen Garipoğlu** – Science Advisor  
+  Oversaw scientific validation and clinical trials. Lecturer in Nutrition at Bahçeşehir University.
 
-### Ufuk Safak - Technical Co-founder
+---
 
-I was responsible for prototyping, firmware development, hardware design, and any kind of technical details.
+## 🧪 Development Timeline
 
-### Yunus Konmaz - Business Manager, Co-founder
+### Alpha Version – _Q2 2021_
 
-Yunus was responsible for marketing and business management. He is the one who came up with this idea.
+- Fully functional device with plastic housing and embedded firmware
+- Tested many gas sensors, finalized on 2 key types
+- ~150 users tested the alpha device
+- Won **$30K** at **ITU Seed Big Bang 2020**, enabling full-time work on the project
 
-### Gokcen Garipoglu - Science Advisor, Co-founder
+### Beta Version – _Jul–Nov 2021_
 
-Gokcen was responsible for scientific relations and clinical trials as well as being a nutritional expert on the team. She is also a full-time lecturer in Bahcesehir University, Nutrition and Dietetics program.
+- Slimmed-down redesign: no screen, Bluetooth-only, mobile app required
+- Mold designed and produced (1K units in **Oct 2021**)
+- Final circuit designed after mold
+- Firmware and algorithms improved
+- Ready for **CES 2022** by **Nov 2021**
 
-## Timeline
+---
 
-### Alpha product
+## 🌐 Media Coverage
 
-We started to work alpha phase device (A complete device with plastic, circuit, and firmware) in the **second quarter of 2021.**
+- [Webrazzi](https://webrazzi.com/2021/02/12/tasinabilir-nefes-analiz-cihazi-avokadio/)
+- [Hürriyet](https://www.hurriyet.com.tr/ekonomi/nefesle-zayiflama-41321800)
+- [Teknoblog – CES 2022 Coverage](https://www.teknoblog.com/ces-2022-ye-katilan-16-farkli-itu-ari-teknokent-girisimi/)
 
-We tried lots of gas sensors in that period. After intense work on gas sensors and detecting algorithms, we ended up with 2 gas sensors and used those within the alpha device.
+---
 
-Approximately **150** people used this early version device without paying any money.
+## 🔧 Technology Stack
 
-In **Big Bang Start-up Challenge 2020 of ituseed (Nov,2020),** we raised approximately 30k$ prize and started working on avokadio as a full-time
-
-### Beta product
-
-We updated our alpha product with a new design, new dimensions, and without a screen. This version only works with a Bluetooth connection and customers have to use our mobile application to interact with the device.
-
-This device has a plastic enclosure with mold production. We also design a mold and produce it in 1k pieces.
-
-Firmware and measurement algorithm was also upgraded.
-
-We start working on product updates in **Jul 2021**.
-
-Mold design was finished in **Sep 2021.**
-
-Plastics were produced with mold production in 1k pieces in **Oct 2021**.
-
-Circuit design was finished just after mold production had finished.
-
-We were ready to go **CES 2022** with the product in **Nov 2021.**
-
-## Media
-
-https://webrazzi.com/2021/02/12/tasinabilir-nefes-analiz-cihazi-avokadio/
-https://www.hurriyet.com.tr/ekonomi/nefesle-zayiflama-41321800
-https://www.teknoblog.com/ces-2022-ye-katilan-16-farkli-itu-ari-teknokent-girisimi/
-
-## Technology Stack
-
-- **Mobile App:** Flutter for cross-platform mobile app development.
+- **Mobile App:** Flutter
 - **Backend:** GCP, Python, Pandas
-- **Database:** Firebase,Firestore for scalable and flexible data storage.
-- **Hardware Development:** KiCAD and Fusion360
+- **Database:** Firebase / Firestore
+- **Hardware:** KiCAD, Fusion360

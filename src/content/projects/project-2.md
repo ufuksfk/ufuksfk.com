@@ -1,6 +1,6 @@
 ---
-title: 'FM retransmission unit for highway tunnels'
-description: FM radio retransmission unit to install highway tunnels. It is using leaky feeder coaxial antenna, alread installed in tunnels for radio communication coverage. It is retransmission unit with live announcement capabilities.
+title: 'FM Retransmission Unit for Highway Tunnels'
+description: FM radio retransmission unit using leaky feeder coaxial antennas to enable radio coverage and live announcements inside highway tunnels
 publishDate: 'Oct 2 2020'
 isFeatured: true
 seo:
@@ -9,20 +9,24 @@ seo:
     alt: Project preview
 ---
 
-**Project Overview:**
-I had been working as an Embedded System Engineer for almost 18 months in ABE Teknoloji, located in Istanbul.
+**Project Overview:**  
+I worked as an **Embedded Systems Engineer** at **ABE Teknoloji** in Istanbul for nearly 18 months.
 
-When I started, the company had an FM Radio Retransmission System, already installed in 5 highway tunnels. With me and our team, we upgraded this device into a more industrial and compact form factor. We worked on the software, hardware, industrial design, and GUI.
+At the time, the company had an FM Radio Retransmission System already deployed in 5 highway tunnels. Together with the team, we redesigned and upgraded the system into a more **compact, industrial-grade form factor**. Our work spanned software, hardware, industrial design, and GUI development.
 
-The device is simply getting an on-air FM signal and retransmitting it into the tunnel. It can also interfere with the signal and broadcast live and recorded announcements. It can work up to 64 channels and can be a transmitter, receiver, or transceiver thanks to its modular design.
+The device receives on-air FM signals and retransmits them into tunnels using **leaky feeder coaxial antennas** (already installed for communication coverage). It also allows **live or recorded voice announcements** to override the signal when needed. Thanks to its **modular architecture**, the system can operate across **up to 64 channels** and be configured as a **transmitter, receiver, or full transceiver**.
 
-## Key Outcomes
+---
 
-1. Create a visually stunning and user-friendly device that fits to industry standards (3U rack cabinet unit)
-2. Backend structure is moved from stationary computer to industrial SBC inside of device.
-3. All circuit designs and general system design is restructured to be as modular as possible.
+## ✅ Key Outcomes
 
-## Technology Stack
+1. Designed a compact, visually refined 3U rack-mountable device that meets industrial standards
+2. Migrated the backend from a stationary PC to an **embedded industrial SBC** inside the device
+3. Restructured the circuit and system architecture to enable **full modularity**
+
+---
+
+## 🛠️ Technology Stack
 
 - **Chipsets:** MSP430, SiTime SI4721, Odroid SBC
 - **Industrial GUI:** Python, Flask, Bootstrap 4, Embedded Linux
