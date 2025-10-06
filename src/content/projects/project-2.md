@@ -1,15 +1,13 @@
 ---
 title: 'FM retransmission unit for highway tunnels'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+description: FM radio retransmission unit to install highway tunnels. It is using leaky feeder coaxial antenna, alread installed in tunnels for radio communication coverage. It is retransmission unit with live announcement capabilities.
+publishDate: 'Oct 2 2020'
 isFeatured: true
 seo:
   image:
     src: '/project-2.jpg'
     alt: Project preview
 ---
-
-![Project preview](/project-2.jpg)
 
 **Project Overview:**
 I had been working as an Embedded System Engineer for almost 18 months in ABE Teknoloji, located in Istanbul.

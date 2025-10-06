@@ -1,66 +1,74 @@
 ---
 title: 'Avokadio'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+description: Avokadio is breath analyzer device which can help you to track your metabolism and lose weight.
+publishDate: 'Dec 31 2021'
 seo:
   image:
     src: '/project-1.jpg'
     alt: Project preview
 ---
 
-![Project preview](/project-1.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
 
-## Objectives
+We developed a breath analyser device for consumer use. It can sense lots of gas at breath. With these data points, we were developing algorithms that give information about your health and your metabolism.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+I resigned from our lovely startup after being a father. It was very nice to work with these people, but after being a parent I started to question my personal financial status and decided to take a break from entrepreneurship journey.
 
-## Features
+## Team
 
-1. **EcoScore and Challenges:**
+In my 3rd entrepreneurship attempt, we were 3 co-founders.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+### Ufuk Safak - Technical Co-founder
 
-2. **Personalized Eco-Goals:**
+I was responsible for prototyping, firmware development, hardware design, and any kind of technical details.
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+### Yunus Konmaz - Business Manager, Co-founder
 
-3. **Green Rewards Marketplace:**
+Yunus was responsible for marketing and business management. He is the one who came up with this idea.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+### Gokcen Garipoglu - Science Advisor, Co-founder
 
-4. **Community Hub:**
+Gokcen was responsible for scientific relations and clinical trials as well as being a nutritional expert on the team. She is also a full-time lecturer in Bahcesehir University, Nutrition and Dietetics program.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+## Timeline
 
-5. **EcoEducator AI Assistant:**
+### Alpha product
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+We started to work alpha phase device (A complete device with plastic, circuit, and firmware) in the **second quarter of 2021.**
+
+We tried lots of gas sensors in that period. After intense work on gas sensors and detecting algorithms, we ended up with 2 gas sensors and used those within the alpha device.
+
+Approximately **150** people used this early version device without paying any money.
+
+In **Big Bang Start-up Challenge 2020 of ituseed (Nov,2020),** we raised approximately 30k$ prize and started working on avokadio as a full-time
+
+### Beta product
+
+We updated our alpha product with a new design, new dimensions, and without a screen. This version only works with a Bluetooth connection and customers have to use our mobile application to interact with the device.
+
+This device has a plastic enclosure with mold production. We also design a mold and produce it in 1k pieces.
+
+Firmware and measurement algorithm was also upgraded.
+
+We start working on product updates in **Jul 2021**.
+
+Mold design was finished in **Sep 2021.**
+
+Plastics were produced with mold production in 1k pieces in **Oct 2021**.
+
+Circuit design was finished just after mold production had finished.
+
+We were ready to go **CES 2022** with the product in **Nov 2021.**
+
+## Media
+
+https://webrazzi.com/2021/02/12/tasinabilir-nefes-analiz-cihazi-avokadio/
+https://www.hurriyet.com.tr/ekonomi/nefesle-zayiflama-41321800
+https://www.teknoblog.com/ces-2022-ye-katilan-16-farkli-itu-ari-teknokent-girisimi/
 
 ## Technology Stack
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ufuk Safak. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- **Mobile App:** Flutter for cross-platform mobile app development.
+- **Backend:** GCP, Python, Pandas
+- **Database:** Firebase,Firestore for scalable and flexible data storage.
+- **Hardware Development:** KiCAD and Fusion360

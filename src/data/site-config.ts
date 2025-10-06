@@ -116,10 +116,10 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
         text: "I'm **Ufuk Safak**, an embedded systems engineer exploring the intersection of hardware, design, and systems thinking. I'm drawn to ideas that blend creativity with practicality — whether it's building physical products, shaping thoughtful user flows, or asking better questions. I believe good design starts with curiosity and improves through iteration. You can check out some of my experiments on <a href='https://github.com/ufuksfk'>GitHub</a> or find me over on <a href='https://linkedin.com/in/ufuksfk'>Linkedin</a>.",
-        image: {
+        /*image: {
         src: '/hero.jpeg',
         alt: 'A person sitting at a desk in front of a computer'
-        },
+        },*/
         actions: [
         {
             text: 'Get in Touch',
