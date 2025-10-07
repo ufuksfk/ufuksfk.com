@@ -1,5 +1,5 @@
-import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { defineCollection, z } from 'astro:content';
 
 const seoSchema = z.object({
     title: z.string().min(5).max(120).optional(),
@@ -34,6 +34,14 @@ const pages = defineCollection({
     })
 });
 
+const lists = defineCollection({
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/lists' }),
+    schema: z.object({
+        title: z.string(),
+        description: z.string().optional()
+    })
+});
+
 const projects = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),
     schema: z.object({
@@ -45,4 +53,4 @@ const projects = defineCollection({
     })
 });
 
-export const collections = { blog, pages, projects };
+export const collections = { blog, pages, projects, lists };
