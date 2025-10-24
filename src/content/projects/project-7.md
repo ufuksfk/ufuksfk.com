@@ -8,7 +8,8 @@ seo:
     src: 'project-7.jpg'
 ---
 
-**Project Overview:**  
+## Project Overview:
+
 I co-founded a startup that developed a **Bluetooth-enabled e-book reader cover**, designed to improve the digital reading experience on phones and tablets. It was a standalone display that paired with your device — minimal, distraction-free, and made just for reading.
 
 https://www.youtube.com/watch?v=LmN3RAWapHc

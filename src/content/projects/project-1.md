@@ -8,7 +8,8 @@ seo:
     alt: Project preview
 ---
 
-**Project Overview:**  
+## Project Overview:
+
 We developed **Avokadio**, a consumer breath analyzer that detects multiple gases in exhaled breath to provide insights about metabolism and overall health.
 
 I co-founded the startup with two close collaborators and led all technical work — prototyping, firmware, hardware design. After becoming a parent, I chose to step away from the venture to focus on personal priorities and financial stability.

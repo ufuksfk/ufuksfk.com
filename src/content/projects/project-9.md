@@ -8,7 +8,8 @@ seo:
     alt: Project preview
 ---
 
-**Project Overview:**  
+## Project Overview:
+
 I was 19, still the same kind of person — imagining a better future and trying to build toward it.  
 I didn’t exactly succeed in changing the world back then, but I’m still proud of those early attempts.
 

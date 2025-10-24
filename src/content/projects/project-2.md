@@ -9,7 +9,8 @@ seo:
     alt: Project preview
 ---
 
-**Project Overview:**  
+## Project Overview:
+
 I worked as an **Embedded Systems Engineer** at **ABE Teknoloji** in Istanbul for nearly 18 months.
 
 At the time, the company had an FM Radio Retransmission System already deployed in 5 highway tunnels. Together with the team, we redesigned and upgraded the system into a more **compact, industrial-grade form factor**. Our work spanned software, hardware, industrial design, and GUI development.

@@ -7,7 +7,8 @@ seo:
     src: '/project-6.jpg'
 ---
 
-**Project Overview:**  
+## Project Overview:
+
 We launched a student-focused educational agency to promote **robotics and programming education for children**.
 
 Over time, we:
