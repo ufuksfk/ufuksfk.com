@@ -52,7 +52,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
-        },        
+        },      
         {
             text: 'About',
             href: '/about'
@@ -64,7 +64,11 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        },
+        },        
+        {
+            text: 'Notes',
+            href: 'notes.ufuksfk.com'
+        },  
         {
             text: 'Lists',
             href: '/lists'
