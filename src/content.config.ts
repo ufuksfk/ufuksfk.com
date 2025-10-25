@@ -34,13 +34,13 @@ const pages = defineCollection({
     })
 });
 
-const lists = defineCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/lists' }),
-    schema: z.object({
-        title: z.string(),
-        description: z.string().optional()
-    })
-});
+//const lists = defineCollection({
+//    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/lists' }),
+//    schema: z.object({
+//        title: z.string(),
+//        description: z.string().optional()
+//    })
+//});
 
 const projects = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),

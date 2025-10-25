@@ -68,10 +68,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Notes',
             href: 'notes.ufuksfk.com'
-        },  
-        {
-            text: 'Lists',
-            href: '/lists'
         },
         {
             text: 'Tags',
