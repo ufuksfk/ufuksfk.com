@@ -36,7 +36,6 @@ export type SiteConfig = {
     subscribe?: Subscribe;
     postsPerPage?: number;
     projectsPerPage?: number;
-    listsPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
@@ -138,8 +137,7 @@ const siteConfig: SiteConfig = {
         formUrl: '#'
     },
     postsPerPage: 8,
-    projectsPerPage: 8,
-    listsPerPage: 8
+    projectsPerPage: 8
 };
 
 export default siteConfig;
