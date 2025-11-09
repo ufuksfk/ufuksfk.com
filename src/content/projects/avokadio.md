@@ -1,6 +1,7 @@
 ---
 title: 'Avokadio'
 description: A consumer breath analyzer device to help track metabolism and support weight loss
+slug: 'avokadio'
 publishDate: 'Dec 31 2021'
 seo:
   image:

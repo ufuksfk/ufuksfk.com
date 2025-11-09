@@ -2,6 +2,7 @@
 title: Finding my childhood passion
 excerpt: A personal journey to find my original passion
 publishDate: 'Oct 27 2025'
+slug: 'finding-childhood-passion'
 tags:
   - Personal
 ---

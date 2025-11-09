@@ -2,6 +2,7 @@
 title: 5kW Power Factor Correction
 description: 5kW PFC hardware design for a life science product
 publishDate: 'Nov 12 2023'
+slug: '5kw-pfc'
 isFeatured: true
 seo:
   image:

@@ -2,6 +2,7 @@
 title: 'FM Retransmission Unit for Highway Tunnels'
 description: FM radio retransmission unit using leaky feeder coaxial antennas to enable radio coverage and live announcements inside highway tunnels
 publishDate: 'Oct 2 2020'
+slug: 'fm-retransmission'
 isFeatured: true
 seo:
   image:

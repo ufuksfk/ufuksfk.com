@@ -2,6 +2,7 @@
 title: Piezoelectric Trials
 description: Student project exploring everyday uses of piezoelectricity
 publishDate: 'Jan 02 2010'
+slug: 'piezoelectric'
 seo:
   image:
     src: '/project-1.jpg'

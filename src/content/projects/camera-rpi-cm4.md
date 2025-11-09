@@ -1,6 +1,7 @@
 ---
 title: A camera device with Raspberry Pi CM4
 description: A camera motherboard holding 2 RPI CM4, 2 Camera, 2 SD Card and 2 Gigabit Ethernet connection.
+slug: 'camera-rpi-cm4'
 publishDate: 'Oct 24 2025'
 ---
 

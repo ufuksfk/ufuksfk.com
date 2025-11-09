@@ -11,14 +11,19 @@ import { sortItemsByDateDesc } from '../../utils/data-utils';
 export async function getStaticPaths() {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
     const postCount = posts.length;
-    return posts.map((post, index) => ({
-        params: { id: slugify(post.data.title) },
-        props: {
-            post,
-            prevPost: index + 1 !== postCount ? posts[index + 1] : null,
-            nextPost: index !== 0 ? posts[index - 1] : null
-        }
-    }));
+    return posts.map((post, index) => {
+        const rawName = post.filePath ? (post.filePath.split('/').pop() ?? post.id) : post.id;
+        const filename = (rawName ?? post.id).replace(/\.[^/.]+$/, '');
+        const idSlug = post.data.slug || filename || slugify(post.data.title);
+        return {
+            params: { id: idSlug },
+            props: {
+                post,
+                prevPost: index + 1 !== postCount ? posts[index + 1] : null,
+                nextPost: index !== 0 ? posts[index - 1] : null
+            }
+        };
+    });
 }
 
 type Props = { post: CollectionEntry<'blog'>; prevPost: CollectionEntry<'blog'>; nextPost: CollectionEntry<'blog'> };

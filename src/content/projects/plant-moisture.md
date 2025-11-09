@@ -2,6 +2,7 @@
 title: Plant Moisture Sensor Device
 description: An Internal team up project with a lot of fun
 publishDate: 'Apr 24 2024'
+slug: 'plant-moisture'
 ---
 
 ## Project Overview:

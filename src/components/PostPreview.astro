@@ -7,9 +7,12 @@ import FormattedDate from './FormattedDate.astro';
 type Props = { post: CollectionEntry<'blog'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { post, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, publishDate, updatedDate, excerpt } = post.data;
+const { title, publishDate, updatedDate, excerpt, slug: customSlug } = post.data;
 const TitleTag = headingLevel;
-const slug = slugify(title);
+const rawName = post.filePath ? (post.filePath.split('/').pop() ?? post.id) : post.id;
+const filename = (rawName ?? post.id).replace(/\.[^/.]+$/, '');
+const slugSource = customSlug || filename || title;
+const slug = slugify(slugSource);
 ---
 
 <a class:list={['flex justify-between items-start gap-8 group', className]} href={`/blog/${slug}/`}>

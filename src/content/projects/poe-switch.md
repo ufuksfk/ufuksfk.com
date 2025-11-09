@@ -2,6 +2,7 @@
 title: PoE Switch Device
 description: And Industrial Control device with PoE or USB
 publishDate: 'Jul 01 2025'
+slug: 'poe-switch'
 ---
 
 ## Project Overview:

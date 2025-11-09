@@ -2,6 +2,7 @@
 title: How to write "Hello World" in ..
 excerpt: My dummy first blog post page
 publishDate: 'Oct 6 2025'
+slug: 'hello-world'
 tags:
   - Personal
 ---

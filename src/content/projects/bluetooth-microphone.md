@@ -2,6 +2,7 @@
 title: A Bluetooth Microphone Project
 description: Bluetooth-enabled design project for a market-leading client
 publishDate: 'Jun 02 2025'
+slug: 'bluetooth-microphone'
 seo:
   image:
     src: '/project-1.jpg'

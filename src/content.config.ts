@@ -17,6 +17,7 @@ const blog = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/blog' }),
     schema: z.object({
         title: z.string(),
+        slug: z.string().optional(),
         excerpt: z.string().optional(),
         publishDate: z.coerce.date(),
         updatedDate: z.coerce.date().optional(),
@@ -46,6 +47,7 @@ const projects = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),
     schema: z.object({
         title: z.string(),
+        slug: z.string().optional(),
         description: z.string().optional(),
         publishDate: z.coerce.date(),
         isFeatured: z.boolean().default(false),
