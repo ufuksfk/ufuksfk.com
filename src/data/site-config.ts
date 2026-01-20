@@ -51,7 +51,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
-        },      
+        },
         {
             text: 'About',
             href: '/about'
@@ -63,7 +63,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        },        
+        },
         {
             text: 'Notes',
             href: 'notes.ufuksfk.com'
@@ -98,7 +98,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Bluesky',
-            href: 'https://bsky.app/profile/ufuksfk.bsky.social'
+            href: 'https://bsky.app/profile/ufuksfk.com'
         },
         {
             text: 'Mastodon',
@@ -125,10 +125,10 @@ const siteConfig: SiteConfig = {
         alt: 'A person sitting at a desk in front of a computer'
         },*/
         actions: [
-        {
-            text: 'Get in Touch',
-            href: '/contact'
-        }
+            {
+                text: 'Get in Touch',
+                href: '/contact'
+            }
         ]
     },
     subscribe: {

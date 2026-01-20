@@ -17,4 +17,4 @@ Connect with me on social media as well. Find me on almost all social medias wit
 - Professional life -> [Linkedin](https://linkedin.com/in/ufuksfk)
 - Books -> [Goodreads](https://goodreads.com/ufuksfk)
 - Movies ->[Letterboxd](https://letterboxd.com/ufuksfk/)
-- Writings ->[Bluesky](https://bsky.app/profile/ufuksfk.bsky.social), [Mastodon](https://mastodon.social/@ufuksfk), [X/Twitter](https://x.com/ufuksfk), [Threads](https://www.threads.com/@ufuksfk), [Medium](https://medium.com/@ufuksfk), [Substack](https://substack.com/@ufuksfk)
+- Writings ->[Bluesky](https://bsky.app/profile/ufuksfk.com), [Mastodon](https://mastodon.social/@ufuksfk), [X/Twitter](https://x.com/ufuksfk), [Threads](https://www.threads.com/@ufuksfk), [Medium](https://medium.com/@ufuksfk), [Substack](https://substack.com/@ufuksfk)
