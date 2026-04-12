@@ -62,16 +62,16 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Blog',
-            href: '/blog'
+            href: 'blog.ufuksfk.com'
         },
         {
             text: 'Notes',
             href: 'notes.ufuksfk.com'
-        },
+        }/*,
         {
             text: 'Tags',
             href: '/tags'
-        }
+        }*/
     ],
     footerNavLinks: [
         /*{
